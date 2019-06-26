@@ -1,5 +1,5 @@
 # Visual Studio Debug Report
 
-## ƒuƒŒƒCƒNƒ|ƒCƒ“ƒg
+## ãƒ–ãƒ¬ã‚¤ã‚¯ãƒã‚¤ãƒ³ãƒˆ
 
 ![k](https://raw.github.com/wiki/gotakamikubo/VisualStudioDebug-KamikuboGota-/images/BreakPoint.gif)
